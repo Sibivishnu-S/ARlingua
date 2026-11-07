@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- AR Camera Reticle Corner Brackets (High-Tech Emerald Green) -->
+    <path
+        android:pathData="M26,36 V26 H36 M82,36 V26 H72 M26,72 V82 H36 M82,72 V82 H72"
+        android:strokeWidth="3.5"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Outer scanning camera lens/reticle circle (Subtle Indigo Glow) -->
+    <path
+        android:pathData="M54,32 A22,22 0 1,1 53.99,32 Z"
+        android:strokeWidth="1.8"
+        android:strokeColor="#818CF8"
+        android:fillColor="#151D3A"
+        android:fillAlpha="0.6" />
+
+    <!-- Stylized Modern Bold Capital Letter 'A' (Aesthetic Translation symbol) in pure White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 L42,68 H48.2 L51.2,60 H56.8 L59.8,68 H66 Z M54,49.2 L56.3,55.2 H51.7 Z" />
+
+    <!-- Horizontal scanning laser sweep line (Glowing Sunset Amber/Gold) -->
+    <path
+        android:pathData="M30,52 H78"
+        android:strokeWidth="3"
+        android:strokeColor="#F59E0B"
+        android:strokeLineCap="round" />
+</vector>

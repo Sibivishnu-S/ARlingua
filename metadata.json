@@ -1,0 +1,6 @@
+{
+  "name": "ARLingua",
+  "description": "AI-Powered Augmented Reality Language Learning Environment using Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
